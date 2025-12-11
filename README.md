@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Rafi Putra Pati</h1>
+<h3 align="center">Informatics Student • Networking • CTF Player</h3>
 
-<!--
-**oMrPuPa/oMrPuPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 About Me
+- 🎓 Informatics undergraduate  
+- 🌐 Currently learning **Computer Networking** and **Web Exploitation (CTF)**  
+- 🎯 Goal: Networking → Cybersecurity → Pentesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 TryHackMe Progress
+<p>
+  <a href="https://tryhackme.com/p/MrPuPa">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
+### 📫 Reach Me
+- GitHub: **oMrPuPa**
+
+---
+
+⭐ *Thanks for visiting!*
