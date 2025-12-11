@@ -19,9 +19,4 @@
 
 ---
 
-### 📫 Reach Me
-- GitHub: **oMrPuPa**
-
----
-
 ⭐ *Thanks for visiting!*
