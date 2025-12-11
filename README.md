@@ -6,7 +6,6 @@
 ### 🔥 About Me
 - 🎓 Informatics undergraduate  
 - 🌐 Currently learning **Computer Networking** and **Web Exploitation (CTF)**
-- 
 ---
 
 ### 🧩 TryHackMe Progress
