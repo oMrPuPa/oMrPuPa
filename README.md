@@ -7,13 +7,14 @@
 - 🎓 Informatics undergraduate  
 - 🌐 Currently learning :<br>
      **Computer Networking** ,<br>
-     **Web Exploitation, and Cryptography (CTF)** 
+     **Web Exploitation(CTF)**,<br>
+     **Cryptography (CTF).** <br>
 ---
 
 ### 🧩 TryHackMe Progress
 <p>
   <a href="https://tryhackme.com/p/MrPuPa">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="Your Image Badge" />
   </a>
 </p>
 
