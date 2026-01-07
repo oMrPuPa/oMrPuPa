@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrPuPa</h1>
-<h3 align="center">Informatics Student • CTF Player</h3>
+<h3 align="center">Informatics Student</h3>
 
 ---
 
