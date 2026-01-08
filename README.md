@@ -11,7 +11,7 @@
      **Cryptography (CTF).** <br>
 ---
 
-### 🧩 TryHackMe Progress
+### 🧩 TryHackMe
 <p>
   <a href="https://tryhackme.com/p/MrPuPa">
     <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="Your Image Badge" />
