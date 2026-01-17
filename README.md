@@ -9,7 +9,9 @@
      **Computer Networking** 
 ---
 
-### Hands-on Labs
+### Hands-on Labs Profiles
+- **PicoCTF**: https://play.picoctf.org/users/rxfi
+- **TryHackme**:
 <p>
   <a href="https://tryhackme.com/p/MrPuPa">
     <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="Your Image Badge" />
