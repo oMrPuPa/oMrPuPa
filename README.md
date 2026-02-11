@@ -17,7 +17,7 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="Your Image Badge" />
   </a>
 </p>
-
+- **HackTheBox**: masih noob
 ---
 
 ⭐ *Thanks for visiting!*
