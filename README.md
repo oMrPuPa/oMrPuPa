@@ -10,14 +10,16 @@
 ---
 
 ### Hands-on Labs Profiles
+- **HackTheBox**: --
 - **PicoCTF**: https://play.picoctf.org/users/rxfi
 - **TryHackme**:
 <p>
   <a href="https://tryhackme.com/p/MrPuPa">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MrPuPa.png" alt="MrPuPa's TryHackMe Profiles" />
   </a>
-</p>
-- **HackTheBox**: masih noob
+
+</p> 
+
 ---
 
 ⭐ *Thanks for visiting!*
