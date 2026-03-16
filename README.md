@@ -10,8 +10,8 @@
 ---
 
 ### Hands-on Labs Profiles
-- **PicoCTF**: https://play.picoctf.org/users/rxfi
 - **HackTheBox**: https://app.hackthebox.com/public/users/3270973 (just started)
+- **PicoCTF**: https://play.picoctf.org/users/rxfi
 - **TryHackme**:
 <p>
   <a href="https://tryhackme.com/p/MrPuPa">
