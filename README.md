@@ -5,8 +5,9 @@
 
 ### 🔥 About Me
 - 🎓 Informatics undergraduate  
-- 🌐 Currently learning :<br>
-     **Penetration Testing** 
+- 🌐 Currently learning in parallel:<br>
+     - **Network Security**<br>
+     - **Penetration Testing** 
 ---
 
 ### Hands-on Labs Profiles
