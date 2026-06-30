@@ -12,7 +12,7 @@
 
 ### Hands-on Labs Profiles
 - **HackTheBox**: [HTB Profile](https://profile.hackthebox.com/profile/019cd341-3422-72be-8d6c-255ce4e7dcc9) (just started)
-- **PicoCTF**: [PicoCTF Profile](https://play.picoctf.org/users/rxfi)
+- **PicoCTF**: [PicoCTF Profile](https://play.picoctf.org/users/omrpupa)
 - **TryHackme**:
 <p>
   <a href="https://tryhackme.com/p/MrPuPa">
