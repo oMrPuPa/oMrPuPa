@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm MrPuPa</h1>
+<h1 align="center">Hi, I'm MrPuPa</h1>
 <h3 align="center">Informatics Student</h3>
 
 ---
 
-### 🔥 About Me
-- 🎓 Informatics undergraduate  
-- 🌐 Currently learning in parallel:<br>
+###  About Me
+-  Informatics undergraduate  
+-  Currently learning in parallel:<br>
      - **Network Security**<br>
      - **Penetration Testing** 
 ---
@@ -22,5 +22,3 @@
 </p> 
 
 ---
-
-⭐ *Thanks for visiting!*
